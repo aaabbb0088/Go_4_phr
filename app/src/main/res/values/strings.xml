@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Go_4_phr</string>
+    <string name="BTN_Cards_title">卡片夾</string>
+    <string name="BTN_MainAcc_title">我的phr</string>
+    <string name="BTN_AddCard_title">+</string>
+</resources>
